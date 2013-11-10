@@ -1,0 +1,12 @@
+body{ margin: 0; padding: 0; color: #444444; font-size: 1em; background: #f1d5f2; font-family: "Myriad Pro",Arial,Helvetica,sans-serif; }
+h1{ font-family: "Myriad Pro",Arial,Helvetica,sans-serif; font-size: 36px; font-weight: normal; }
+h2{ font-family: "Myriad Pro",Arial,Helvetica,sans-serif; font-size: 12px; text-transform: uppercase; }
+table{ margin: 0 auto; }
+hr{ border: 0; border-bottom: 1px dashed #ccc; background: #999; }
+.tabel{ border-width: 1px; border-style: outset; border-color: #ccc; border-collapse: collapse; background-color: white; text-align: center; }
+.tabel td{ border-width: thin; padding: 10px; border-style: inset; border-color: #999; background-color: white; -moz-border-radius: ;}
+.text{ border: 1px solid #dadada; border-radius: 5px; padding: 5px; }
+.text:focus{ outline: none; border-color: #9ecaed; box-shadow: 0 0 10px purple; }
+.button{ -webkit-border-radius: 15px; -moz-border-radius: 15px; border-radius: 15px; color: #FFF; font-weight: light; border: 1px solid #CCC; padding: 5px 15px; background: #3b3c3d; cursor: pointer; }
+#main{ margin: 15px auto; text-align: center; width: 920px; position: relative; }
+#content{ border-radius: 5px; padding-top: 40px; height: 400px; background: #f2f2f2; -moz-box-shadow:0 0 3px #AAAAAA; -webkit-box-shadow:0 0 3px #AAAAAA; box-shadow:0 0 3px #AAAAAA; border:1px solid white; }
